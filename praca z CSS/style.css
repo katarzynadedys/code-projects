@@ -1,0 +1,123 @@
+body
+{
+	background-color: #222222
+}
+
+#pojemnik
+{
+	width:1200px;
+	margin: auto;
+	
+}
+
+#tytul
+{
+	text-decoration: none;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 10px;
+	width:900px;
+	color: #fff;
+	opacity: 0.8;
+	font-style: italic;
+	font-size: 50px;
+	letter-spacing: 3px;
+	opacity: 0.8;
+	
+}
+a 
+{
+	font-decoration: none;
+	cursor:pointer;
+}
+
+.paris
+{
+	float: left;
+	margin:50px;
+	padding-top: 30px;
+
+    
+}
+
+
+#tekstP
+{
+	width:300px;
+	high: 200px;
+	text-align: center;
+	color: #fff;
+	opacity: 0.8;
+	font-style: italic;
+}
+
+#tekstR
+{
+	width:300px;
+	high: 200px;
+	text-align: center;
+	color: #fff;
+	opacity: 0.8;
+	font-style: italic;
+
+	
+}
+#tekstL
+{
+	width:300px;
+	high: 200px;
+	text-align: center;
+	color: #fff;
+	opacity: 0.8;
+	font-style: italic;
+
+	
+}
+.rome
+{
+	float: left;
+	margin: 50px;
+	padding-top: 33px;
+	
+}
+.london
+{
+	float: left;
+	margin: 50px;
+	padding-top: 45px;
+	
+}
+
+.z1
+{
+	opacity: 0.7;
+	cursor: pointer;
+	transition: all .2s ease-in-out;
+}
+
+.z1:hover
+{
+	opacity: 1;
+	transform: scale(0.9) rotate(3deg);
+}
+
+.z2
+{
+	cursor: pointer;
+}
+
+z2:hover
+{
+	opacity: 1;
+}
+
+.z3
+{
+	cursor: pointer;
+}
+
+z3:hover
+{
+	opacity: 1;
+}
